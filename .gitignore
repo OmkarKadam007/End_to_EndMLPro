@@ -19,6 +19,7 @@ venv/
 Thumbs.db
 
 # IDE/project settings
+
 .vscode/
 .idea/
 
@@ -34,6 +35,7 @@ dist/
 *.xlsx
 
 # Model files (optional, if large)
+artifacts/
 *.h5
 *.pkl
 *.joblib
